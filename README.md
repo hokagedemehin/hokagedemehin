@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋, my name is Demehin Ibukun
+#### I am Aspiring Web developer and a Data Analyst
+![I am Aspiring Web developer and a Data Analyst](https://pbs.twimg.com/profile_banners/76529602/1599815659/1080x360)
+
+I am a strongly committed and resourceful Data Analyst with an excellent record and success in data acquisition, interpretation and implementation as well as project coordination and scheduling. I have also applied myself in the field of web development through personal projects that have been deployed online
+
+Skills: DJANGO / JS / HTML / CSS / BOOTSTRAP / TAILWIND
+
+- 🔭 I’m currently working on Web app for a Parfait bussiness 
+- 🌱 I’m currently learning React and Firebase 
+- 👯 I’m looking to collaborate on Software Development projects 
+- 🤔 I’m looking for help with Jobs and internship 
+- 📫 How to reach me: +234(0)8036051411 
+- ⚡ Fun fact: i'm a huge Anime fan 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/demehin-ibukun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hokage_demehin)  
+
+
 
 <!--
 **hokagedemehin/hokagedemehin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
