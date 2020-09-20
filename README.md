@@ -10,7 +10,6 @@ Skills: DJANGO / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 - 🌱 I’m currently learning React and Firebase 
 - 👯 I’m looking to collaborate on Software Development projects 
 - 🤔 I’m looking for help with Jobs and internship 
-- 📫 How to reach me: +234(0)8036051411 
 - ⚡ Fun fact: i'm a huge Anime fan 
 
 
