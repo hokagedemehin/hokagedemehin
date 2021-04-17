@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Demehin Ibukun
-#### I am Aspiring Web developer and a Data Analyst
+#### I am a Software developer and Data Analyst
 ![I am Aspiring Web developer and a Data Analyst](https://pbs.twimg.com/profile_banners/76529602/1599815659/1080x360)
 
 I am a strongly committed and resourceful Data Analyst with an excellent record and success in data acquisition, interpretation and implementation as well as project coordination and scheduling. I have also applied myself in the field of web development through personal projects that have been deployed online
 
-Skills: DJANGO / JS / HTML / CSS / BOOTSTRAP / TAILWIND
+Skills: DJANGO / DJANGO-REST-FRAMEWORK / JS / HTML-CSS / BOOTSTRAP / FIREBASE
 
 - 🔭 I’m currently working on Web app for a Parfait bussiness 
 - 🌱 I’m currently learning React and Firebase 
