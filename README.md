@@ -6,10 +6,9 @@ I am a strongly committed and resourceful Data Analyst with an excellent record 
 
 Skills: DJANGO / DJANGO-REST-FRAMEWORK / JS / HTML-CSS / BOOTSTRAP / FIREBASE
 
-- 🔭 I’m currently working on Web app for a Parfait bussiness 
-- 🌱 I’m currently learning React and Firebase 
+- 🔭 I’m currently working on Mobile Application and responsive web apps 
+- 🌱 I’m currently learning React-Native and Back-end stacks 
 - 👯 I’m looking to collaborate on Software Development projects 
-- 🤔 I’m looking for help with Jobs and internship 
 - ⚡ Fun fact: i'm a huge Anime fan 
 
 
