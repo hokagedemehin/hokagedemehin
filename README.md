@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Demehin Ibukun
-#### I am a Software developer and Data Analyst
+#### I am a Software developer and monnlight as a Data Analyst
 ![I am a full-stack developer and a Data Analyst](https://pbs.twimg.com/profile_banners/76529602/1599815659/1080x360)
 
-Meticulous Full-stack Developer with about a year of experience building world-class web applications in the least amount of time. I’m a firm believer in the mobile-first approach with a passion for software architecture, responsive web applications designs, and cloud computing. 
+Meticulous Software Developer with about a year of experience building world-class web applications in the least amount of time. I’m a firm believer in the mobile-first approach with a passion for software architecture, responsive web applications designs, and cloud computing. 
 
 I am detail-oriented and desirous of working with a well-established organization, with the intention of contributing to its brand and development, turning challenges into opportunity and success.
 
-Skills: REACT / NEXT JS / REACT-NATIVE / DJANGO / DJANGO-REST-FRAMEWORK / HTML-CSS-JS / TAILWIND CSS / FIREBASE
+Skills: REACT / NEXT JS / REDUX / PYTHON / DJANGO / DJANGO-REST-FRAMEWORK / HTML-CSS-JS / TAILWIND CSS / FIREBASE
 
-- 🔭 I’m currently working on Mobile Application and responsive web apps 
-- 🌱 I’m currently learning React-Native and Back-end stacks 
+- 🔭 I’m currently working on a web application to store client's measurements for tailors
+- 🌱 I’m currently learning Web3 and blockchain for web applications
 - 👯 I’m looking to collaborate on Software Development projects 
 - ⚡ Fun fact: i'm a huge Anime fan 
 
