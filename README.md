@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Demehin Ibukun
-#### I am a Software developer and monnlight as a Data Analyst
-![I am a full-stack developer and a Data Analyst](https://pbs.twimg.com/profile_banners/76529602/1599815659/1080x360)
+#### I am a Software developer
+![I am a full-stack developer](https://pbs.twimg.com/profile_banners/76529602/1599815659/1080x360)
 
 Meticulous Software Developer with about a year of experience building world-class web applications in the least amount of time. I’m a firm believer in the mobile-first approach with a passion for software architecture, responsive web applications designs, and cloud computing. 
 
