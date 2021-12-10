@@ -1,5 +1,15 @@
 ### Hi there 👋, my name is Demehin Ibukun
 #### I am a Software developer
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-html-000000?style=flat&logo=html5)
+![mySQL](https://img.shields.io/badge/-mySQL-000000?style=flat&logo=mysql)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/hokage_demehin)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/demehin-ibukun/)
 [![Dev.to Badge](https://img.shields.io/badge/Dev-Profile-information?style=flat&logo=devdotto&logoColor=white&color=black)](https://dev.to/hokagedemehin)
@@ -14,10 +24,11 @@ I am detail-oriented and desirous of working with a well-established organizatio
 ## 💻 Languages
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="15%" src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img  width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 ## ♠ Frameworks & Libraries
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Logo_material_design.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 ## 🛠 Tools
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -28,6 +39,7 @@ I am detail-oriented and desirous of working with a well-established organizatio
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 ## 🚧 Currently Learning
+
 
  
 [![Demehin Ibukun GitHub stats](https://github-readme-stats.vercel.app/api?username=hokagedemehin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
