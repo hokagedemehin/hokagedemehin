@@ -9,37 +9,27 @@ Meticulous Software Developer with about a year of experience building world-cla
 
 I am detail-oriented and desirous of working with a well-established organization, with the intention of contributing to its brand and development, turning challenges into opportunity and success.
 
-Skills: REACT / NEXT JS / REDUX / PYTHON / DJANGO / DJANGO-REST-FRAMEWORK / HTML-CSS-JS / TAILWIND CSS / FIREBASE
-
-- 🔭 I’m currently working on a web application to store client's measurements for tailors
-- 🌱 I’m currently learning Web3 and blockchain for web applications
-- 👯 I’m looking to collaborate on Software Development projects 
-- ⚡ Fun fact: i'm a huge Anime fan 
-
-
 [<img src='https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/demehin-ibukun/)  [<img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png' alt='twitter' height='40'>](https://twitter.com/hokage_demehin)   [<img src='https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png' alt='dev.to' height='40'>](https://dev.to/hokagedemehin)  
 
- 
- <p>
-   <code><img width="20%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="20%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-   <code><img width="20%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+## 💻 Languages
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+## ♠ Frameworks & Libraries
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+## 🛠 Tools
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+## 📽 Live Projects
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+## 🚧 Currently Learning
 
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
- <a>
- </p>
  
 [![Demehin Ibukun GitHub stats](https://github-readme-stats.vercel.app/api?username=hokagedemehin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -61,6 +51,11 @@ Skills: REACT / NEXT JS / REDUX / PYTHON / DJANGO / DJANGO-REST-FRAMEWORK / HTML
 
 <img width="100%" alt="Demehin's github streak" src="https://github-readme-streak-stats.herokuapp.com?user=hokagedemehin&theme=dark&date_format=M%20j%5B%2C%20Y%5D)" />
 Here are some ideas to get you started:
+- 🔭 I’m currently working on a web application to store client's measurements for tailors
+- 🌱 I’m currently learning Web3 and blockchain for web applications
+- 👯 I’m looking to collaborate on Software Development projects 
+- ⚡ Fun fact: i'm a huge Anime fan 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
