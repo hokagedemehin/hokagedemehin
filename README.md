@@ -14,7 +14,7 @@ Skills: REACT / NEXT JS / REDUX / PYTHON / DJANGO / DJANGO-REST-FRAMEWORK / HTML
 - ⚡ Fun fact: i'm a huge Anime fan 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/demehin-ibukun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/hokage_demehin)  
+[<img src='https://image.similarpng.com/very-thumbnail/2021/01/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/demehin-ibukun/)  [<img src='https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png' alt='twitter' height='40'>](https://twitter.com/hokage_demehin)   [<img src='https://cdn.icon-icons.com/icons2/2248/PNG/512/dev_to_icon_136699.png' alt='dev.to' height='40'>](https://dev.to/hokagedemehin)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hokagedemehin&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
