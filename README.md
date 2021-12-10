@@ -48,7 +48,9 @@ I am detail-oriented and desirous of working with a well-established organizatio
 ![Web 3](https://img.shields.io/badge/-Web_3-000000?style=flat&logo=web3dotjs)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-000000?style=flat&logo=bitcoin)
 
-<!-- ### 📽 Live Projects -->
+### 📽 Live Projects
+[![Lola Adeoti Badge](https://img.shields.io/badge/Lola_Adeoti-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://lola-adeoti.com)
+[![Tailors DB Badge](https://img.shields.io/badge/Tailors_DB-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://tailorsdb.com)
 
 <!-- ### 🏗 Upcoming Projects -->
 
