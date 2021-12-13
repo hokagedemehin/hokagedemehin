@@ -40,6 +40,8 @@ I am detail-oriented and desirous of working with a well-established organizatio
 ![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm)
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
 
 ### 🚧 Currently Learning
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
