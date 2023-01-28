@@ -1,25 +1,37 @@
-### Hi there 👋, my name is Demehin Ibukun
+### Hi there 👋, my name is Ibukun Demehin
 #### I am a Software developer
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/hokage_demehin)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/demehin-ibukun/)
-[![Dev.to Badge](https://img.shields.io/badge/Dev-Profile-information?style=flat&logo=devdotto&color=0A0A0A)](https://dev.to/hokagedemehin)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-information?style=flat&logo=googlechrome&color=4285F4)](https://ibukundemehin.com)
-![I am a full-stack developer](https://pbs.twimg.com/profile_banners/76529602/1599815659/1080x360)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-information?style=flat&logo=hashnode&color=2962FF)](https://demibk.hashnode.dev/)
+<!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-information?style=flat&logo=googlechrome&color=2962FF)](https://ibukundemehin.com) -->
 
-Meticulous Software Developer with about a year of experience building world-class web applications in the least amount of time. I’m a firm believer in the mobile-first approach with a passion for software architecture, responsive web applications designs, and cloud computing. 
+<!-- Meticulous Software Developer with about a year of experience building world-class web applications in the least amount of time. I’m a firm believer in the mobile-first approach with a passion for software architecture, responsive web applications designs, and cloud computing. 
 
-I am detail-oriented and desirous of working with a well-established organization, with the intention of contributing to its brand and development, turning challenges into opportunity and success.
+I am detail-oriented and desirous of working with a well-established organization, with the intention of contributing to its brand and development, turning challenges into opportunity and success. -->
 
+I create online solutions and products for businesses and organizations to scale and grow their clientele and revenue. I am detail-oriented and enjoy creating a smooth, fast and easy user experience in all my web and mobile applications.
 
+### 🛠 Languages and Framework
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
+![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 
-### 💻 Languages
+### 🏗 Currently building
+[![Moolah App](https://img.shields.io/badge/Moolah-app-information?style=flat&logo=googlechrome&color=4285F4)](https://moolah-app.vercel.app/)
+[![Lola Adeoti Badge](https://img.shields.io/badge/Lola_Adeoti-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://lola-adeoti.com)
+
+<!-- [![Eazy Retail App](https://img.shields.io/badge/Eazy-Retail-app-information?style=flat&logo=googlechrome&color=4285F4)](https://github.com/hokagedemehin/eazy-retail) -->
+
+<!-- ### 💻 Languages
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
 ![HTML](https://img.shields.io/badge/-html-000000?style=flat&logo=html5)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite) -->
 
-### ♠ Frameworks & Libraries
+<!-- ### ♠ Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
@@ -29,9 +41,9 @@ I am detail-oriented and desirous of working with a well-established organizatio
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=nodedotjs)
 ![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logo=expo) -->
 
-### 🛠 Tools
+<!-- ### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
@@ -41,14 +53,14 @@ I am detail-oriented and desirous of working with a well-established organizatio
 ![Yarn](https://img.shields.io/badge/-Yarn-000000?style=flat&logo=yarn)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku) -->
 
-### 🚧 Currently Learning
+<!-- ### 🚧 Currently Learning
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=flat&logo=solidity)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000000?style=flat&logo=ethereum)
 ![Block Chain](https://img.shields.io/badge/-Block_Chain-000000?style=flat&logo=blockchaindotcom)
 ![Web 3](https://img.shields.io/badge/-Web_3-000000?style=flat&logo=web3dotjs)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-000000?style=flat&logo=bitcoin)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-000000?style=flat&logo=bitcoin) -->
 
 ### 📽 Live Projects
 [![Lola Adeoti Badge](https://img.shields.io/badge/Lola_Adeoti-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://lola-adeoti.com)
