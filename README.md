@@ -3,25 +3,28 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/hokage_demehin)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/demehin-ibukun/)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-information?style=flat&logo=hashnode&color=2962FF)](https://demibk.hashnode.dev/)
+<!-- [![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-information?style=flat&logo=hashnode&color=2962FF)](https://demibk.hashnode.dev/) -->
 <!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Profile-information?style=flat&logo=googlechrome&color=2962FF)](https://ibukundemehin.com) -->
 
 <!-- Meticulous Software Developer with about a year of experience building world-class web applications in the least amount of time. I’m a firm believer in the mobile-first approach with a passion for software architecture, responsive web applications designs, and cloud computing. 
 
 I am detail-oriented and desirous of working with a well-established organization, with the intention of contributing to its brand and development, turning challenges into opportunity and success. -->
 
-I create online solutions and products for businesses and organizations to scale and grow their clientele and revenue. I am detail-oriented and enjoy creating a smooth, fast and easy user experience in all my web and mobile applications.
+I specialize in developing innovative online solutions and products that empower businesses and organizations to scale their operations, grow their clientele, and increase revenue. With a strong focus on detail, I prioritize crafting seamless, efficient, and user-friendly experiences in every web and mobile application I design.
+
+I am passionate about leveraging technology to drive business success and deliver measurable impact through high-quality digital solutions.
 
 ### 🛠 Languages and Framework
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=nextdotjs)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![React Native](https://img.shields.io/badge/-React_Native-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
+![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonwebservices)
 
-### 🏗 Currently building
+<!--  ### 🏗 Currently building
 [![Moolah App](https://img.shields.io/badge/Moolah-app-information?style=flat&logo=googlechrome&color=4285F4)](https://moolah-app.vercel.app/)
-[![Lola Adeoti Badge](https://img.shields.io/badge/Lola_Adeoti-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://lola-adeoti.com)
+[![Receiptify](https://img.shields.io/badge/Receiptify-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://play.google.com/store/apps/details?id=com.demibk.receiptify) -->
 
 <!-- [![Eazy Retail App](https://img.shields.io/badge/Eazy-Retail-app-information?style=flat&logo=googlechrome&color=4285F4)](https://github.com/hokagedemehin/eazy-retail) -->
 
@@ -63,8 +66,11 @@ I create online solutions and products for businesses and organizations to scale
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-000000?style=flat&logo=bitcoin) -->
 
 ### 📽 Live Projects
-[![Lola Adeoti Badge](https://img.shields.io/badge/Lola_Adeoti-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://lola-adeoti.com)
-[![Tailors DB Badge](https://img.shields.io/badge/Tailors_DB-Project-information?style=flat&logo=googlechrome&color=4285F4)](https://tailorsdb.com)
+[![Moolah App](https://img.shields.io/badge/Moolah-Webapp-information?style=flat&logo=googlechrome&color=4285F4)](https://moolah-app.vercel.app/)
+[![Receiptify](https://img.shields.io/badge/Receiptify-Mobile-information?style=flat&logo=android&color=4285F4)](https://play.google.com/store/apps/details?id=com.demibk.receiptify)
+
+[![Receiptify](https://img.shields.io/badge/iPredict-Mobile-information?style=flat&logo=android&color=4285F4)](https://play.google.com/store/apps/details?id=com.demibk.ipredict)
+[![Receiptify](https://img.shields.io/badge/Fiver-Mobile-information?style=flat&logo=android&color=4285F4)](https://play.google.com/store/apps/details?id=com.demibk.fivivers)
 
 <!-- ### 🏗 Upcoming Projects -->
 
